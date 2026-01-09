@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "うっせぇわ",
+  "base_artist": "Ado",
+  "createdAt": "2026-01-09T12:34:15.499463Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "うっせぇわ - Piano Ver.",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_うっせぇわ_-_Piano_Ver._Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "うっせぇわ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_うっせぇわ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "うっせぇわ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_うっせぇわ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "うっせぇわ - Giga Remix",
+      "artist": "Ado feat. Giga",
+      "has_synced": true,
+      "path": "select/04_うっせぇわ_-_Giga_Remix_Ado_feat._Giga.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "うっせぇわ（Giga remix)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_うっせぇわ(Giga_remix)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "うっせぇわ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/06_うっせぇわ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "うっせぇわ - Giga Remix",
+      "artist": "Ado/Giga",
+      "has_synced": true,
+      "path": "select/07_うっせぇわ_-_Giga_Remix_Ado_Giga.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "うっせぇわ - Piano Ver.",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/08_うっせぇわ_-_Piano_Ver._Ado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Usseewa (うっせぇわ)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/09_Usseewa_(うっせぇわ)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "うっせぇわ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/10_うっせぇわ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "うっせぇわ(Usseewa)",
+      "artist": "二口魔菜 Futakuchi Mana",
+      "has_synced": false,
+      "path": "select/11_うっせぇわ(Usseewa)_二口魔菜_Futakuchi_Mana.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "うっせぇわ (feat. 朝比奈まふゆ&暁山瑞希)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/12_うっせぇわ_(feat._朝比奈まふゆ&暁山瑞希)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "うっせぇわ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/13_うっせぇわ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "うっせぇわ",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/14_うっせぇわ_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "うっせぇわ",
+      "artist": "25時、ナイトコードで。 feat. 朝比奈まふゆ&暁山瑞希",
+      "has_synced": true,
+      "path": "select/15_うっせぇわ_25時、ナイトコードで。_feat._朝比奈まふゆ&暁山瑞希.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "USSEEWA (English Cover)【Will Stetson】「 うっせぇわ 」",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/16_USSEEWA_(English_Cover)【Will_Stetson】「_うっせぇわ_」_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "【Ado】うっせぇわ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/17_【Ado】うっせぇわ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "うっせぇわ (Giga remix)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/18_うっせぇわ_(Giga_remix)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "うっせぇわ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/19_うっせぇわ_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うっせぇわ",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_うっせぇわ_Ado.txt"
+    }
+  ]
+}
